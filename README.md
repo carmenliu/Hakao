@@ -1,0 +1,1 @@
+# Hakao.net mock
